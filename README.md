@@ -34,7 +34,7 @@ FIRST STEP FOR ANACONDA:
 \
 \
 \
-Second Step for Julia: 
+SECOND STEP FOR JULIA: 
 \
 \
 \
@@ -50,7 +50,7 @@ Second Step for Julia:
 \
 \
 \
-Last Step 
+LAST STEP:
 \
 \
 \
