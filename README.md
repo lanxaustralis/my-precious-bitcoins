@@ -4,7 +4,7 @@
 
 1- Please go the the link https://github.com/lanxaustralis/my-precious-bitcoins
 
-2- Download the code into your computer.
+2- Download or clone the code into your computer.
 \
 \
 \
