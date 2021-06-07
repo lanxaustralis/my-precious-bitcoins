@@ -7,8 +7,8 @@ Download the code.
 \
 1- Please go the the link https://github.com/lanxaustralis/my-precious-bitcoins
 
-2- Download the code into your computer.
-\
+2- Download the code into your computer.\
+
 DOwnload the requirement applications.
 \
 
