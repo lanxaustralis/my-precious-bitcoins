@@ -10,8 +10,6 @@
 \
 FIRST STEP FOR ANACONDA: 
 \
-\
-\
 1- Download the Anaconda installer. ( https://www.anaconda.com/products/individual-b#windows )
 
 2- Double click the installer to launch.
@@ -36,8 +34,6 @@ FIRST STEP FOR ANACONDA:
 \
 SECOND STEP FOR JULIA: 
 \
-\
-\
 1- Download the Julia. (https://julialang.org/downloads/)
 
 2- Double click the installer to launch.
@@ -51,8 +47,6 @@ SECOND STEP FOR JULIA:
 \
 \
 LAST STEP:
-\
-\
 \
 1- Search in your computer for 'Anaconda prompt', and open it.
 
