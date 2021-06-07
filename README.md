@@ -7,11 +7,15 @@
 2- Download the code into your computer.
 \
 \
+\
 Download the requirement applications.
 \
 \
+\
 FIRST STEP FOR ANACONDA: 
-
+\
+\
+\
 1- Download the Anaconda installer. ( https://www.anaconda.com/products/individual-b#windows )
 
 2- Double click the installer to launch.
@@ -33,7 +37,9 @@ FIRST STEP FOR ANACONDA:
 10- After a successful installation you will see the “Thanks for installing Anaconda” dialog box:
 \
 \
+\
 Second Step for Julia: 
+\
 \
 \
 1- Download the Julia. (https://julialang.org/downloads/)
@@ -47,7 +53,9 @@ Second Step for Julia:
 5- Write "Pkg.add("IJulia")" to the console, Press enter 
 \
 \
+\
 Last Step 
+\
 \
 \
 1- Search in your computer for 'Anaconda prompt', and open it.
