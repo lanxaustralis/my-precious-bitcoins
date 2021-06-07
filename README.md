@@ -6,9 +6,6 @@
 
 2- Download the code into your computer.
 \
-
-Download the requirement applications.
-\
 \
 \
 FIRST STEP FOR ANACONDA: 
